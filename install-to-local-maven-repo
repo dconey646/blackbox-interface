@@ -1,3 +1,0 @@
-#!/bin/bash
-
-mvn install:install-file -Dfile=target/blackbox-interface-1.jar -DgroupId=blackbox-interface -DartifactId=com.kainos.training -Dversion=1 -Dpackaging=jar
